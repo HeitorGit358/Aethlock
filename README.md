@@ -72,6 +72,10 @@ Aethlock\
 * Some features may depend on your Windows version.
 * Features marked as "Under Development" are subject to change.
 
+## 🤍 Inspiration
+
+Our inspiration is in the redis tool called Redlock, also in the logo.
+
 ## 📌 About
 
 Developed by **AethDoesOSes**.
