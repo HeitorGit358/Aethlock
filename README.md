@@ -1,4 +1,4 @@
-# Aethlock
+# <img src="icon_transparente_hd.png" height="60"> Aethlock
 
 **Aethlock by AethDoesOSes**
 Build 2608.05
